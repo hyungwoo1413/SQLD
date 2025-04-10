@@ -1,5 +1,5 @@
 # SQLD
-<table border="1" cellspacing="0" cellpadding="8" style="font-size:13px">
+<table border="1" cellspacing="0" cellpadding="8" style="font-size:12px">
   <thead>
     <tr>
       <th>과목명</th>
